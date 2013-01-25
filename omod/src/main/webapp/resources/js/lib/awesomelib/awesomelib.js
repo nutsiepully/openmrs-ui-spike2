@@ -14,4 +14,5 @@
         return 'Hello, World!'
     }
 
+    return this.AwesomeLib;
 })();
