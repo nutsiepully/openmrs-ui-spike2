@@ -1,0 +1,24 @@
+CACHE MANIFEST
+# Date, version
+
+../assets/base.css
+../assets/bootstrap/bootstrap-responsive.css
+../assets/bootstrap/bootstrap.css
+../assets/bootstrap/bootstrap.min.css
+
+collections/xrays.js
+
+lib/awesomelib/awesomelib.js
+lib/handlebars/handlebars.js
+lib/underscore/underscore.js
+
+main.js
+
+models/hello_world_service.js
+models/xray.js
+
+routers/router.js
+
+templates/xray.html
+
+views/xray.js

@@ -42,7 +42,16 @@
         <property name="label" value="XRay Concept Order"/>
         <property name="homepageUrl" value="openmrs/moduleResources/spike2/js/main.js"/>
         <property name="iconUrl" value="icon-cogs"/>
+        <!--<property name="manifestUrl" value="openmrs/moduleResources/spike2/manifest.appcache" />-->
         <!--<property name="order" value="2" />-->
     </bean>
+
+    <!--<bean id="htmlFormEntry" class="org.openmrs.module.appframework.SimpleAppDescriptor">-->
+        <!--<property name="id" value="htmlForms"/>-->
+        <!--<property name="label" value="HTML Forms"/>-->
+        <!--<property name="homepageUrl" value="openmrs/module/htmlformentry/htmlFormEntry.form?personId=2&amp;patientId=2&amp;returnUrl=&amp;formId=2"/>-->
+        <!--<property name="iconUrl" value="icon-cogs"/>-->
+        <!--&lt;!&ndash;<property name="order" value="2" />&ndash;&gt;-->
+    <!--</bean>-->
 
 </beans>
