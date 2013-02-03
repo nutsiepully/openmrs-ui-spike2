@@ -10,7 +10,8 @@ define([
     var AppRouter = Backbone.Router.extend({
 
         routes: {
-            'xrayApp/xray': "xray"
+            'xrayApp/xray': "xray",
+            '*path': "xray"
         },
 
         xray: function() {

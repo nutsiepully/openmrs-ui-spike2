@@ -12,7 +12,7 @@ lib/awesomelib/awesomelib.js
 lib/handlebars/handlebars.js
 lib/underscore/underscore.js
 
-main.js
+xray.js
 
 models/hello_world_service.js
 models/xray.js
