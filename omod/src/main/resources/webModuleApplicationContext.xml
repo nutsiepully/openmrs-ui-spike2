@@ -40,7 +40,7 @@
     <bean id="xrayApp" class="org.openmrs.module.appframework.SimpleAppDescriptor">
         <property name="id" value="xrayApp"/>
         <property name="label" value="XRay Concept Order"/>
-        <property name="homepageUrl" value="openmrs/moduleResources/spike2/xray.html"/>
+        <property name="homepageUrl" value="moduleResources/spike2/xray.html"/>
         <property name="iconUrl" value="icon-cogs"/>
         <!--<property name="manifestUrl" value="openmrs/moduleResources/spike2/manifest.appcache" />-->
         <!--<property name="order" value="2" />-->
